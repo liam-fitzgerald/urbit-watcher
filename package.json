@@ -1,0 +1,27 @@
+{
+  "name": "urbit-watcher",
+  "version": "0.0.1",
+  "description": "File watcher for urbit",
+  "bin": "watch.js",
+  "main": "watch.js",
+  "dependencies": {
+    "fb-watchman": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam-fitzgerald/urbit-watcher.git"
+  },
+  "keywords": [
+    "urbit"
+  ],
+  "author": "Liam Fitzgerald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liam-fitzgerald/urbit-watcher/issues"
+  },
+  "homepage": "https://github.com/liam-fitzgerald/urbit-watcher#readme"
+}
