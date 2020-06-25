@@ -5,7 +5,8 @@
   "bin": "watch.js",
   "main": "watch.js",
   "dependencies": {
-    "fb-watchman": "^2.0.1"
+    "fb-watchman": "^2.0.1",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {},
   "scripts": {
